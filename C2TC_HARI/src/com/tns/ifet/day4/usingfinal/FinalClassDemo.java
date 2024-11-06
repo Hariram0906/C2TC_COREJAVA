@@ -1,5 +1,5 @@
 package com.tns.ifet.day4.usingfinal;
-final class FinalClass {
+class FinalClass {
 	void show() {
 		System.out.println("Final class cannot be inherited");
 	}

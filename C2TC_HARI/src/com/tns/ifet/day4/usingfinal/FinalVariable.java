@@ -1,9 +1,9 @@
 package com.tns.ifet.day4.usingfinal;
 
 public class FinalVariable {
-		final int x = 100;		
-		final static int Y;
-		final static int Z = 10;
+		int x = 100;		
+		static int Y;
+		static int Z = 10;
 		void change() {
 			x = 30;
 			Y = 200; 
